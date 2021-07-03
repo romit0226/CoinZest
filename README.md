@@ -1,7 +1,9 @@
 # CoinZest
 React Native App based on cryptocurrency
 
-This is an example [Sanity](https://www.sanity.io) backed [React Native](https://facebook.github.io/react-native/) app for the movies database dataset.
+This is backed [React Native](https://facebook.github.io/react-native/) app for the CryptoCurrency database dataset.
+
+<img src="https://github.com/romit0226/CoinZest/blob/master/ios/Screenshot_1.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />  <img display=flex src="https://github.com/romit0226/CoinZest/blob/master/ios/Screenshot_2.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   <img  display=flex src="https://github.com/romit0226/CoinZest/blob/master/ios/Screenshot_3.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ## Setup
 
